@@ -1,5 +1,5 @@
 <div align= "center">
-    <h1> <img src="assets/readme/xagent_logo.png" height=40 align="texttop">XAgent</h1>
+    <h1> <img src="assets/readme/xagent_logo.png" height=40 align="texttop">e-Invoice APIs</h1>
 </div>
 
 <div align="center">
